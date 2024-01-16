@@ -118,6 +118,18 @@ nav li a {
     background-size: cover;
 }
 
+.down-arrow-sign1 {
+    padding-left: 80px;
+}
+
+.down-arrow-sign2 {
+    padding-left: 40px;
+}
+
+.search-sign {
+    padding-right: 10px;
+}
+
 .head-title {
     color: #FFF;
     font-size: 4rem;
